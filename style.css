@@ -1,0 +1,80 @@
+body{ 
+background-color:#8B7E66;
+margin: 0;
+padding: 0;
+
+}
+h1 {
+  
+	text-align: center;
+	margin: 10px 0 0 0;
+	font-size: 5em;
+  font-weight: normal;
+  margin-top: 5px;
+  font-style: italic
+}
+
+.cb2 { text-align: center;
+  margin-top: 50px;
+  font-size: 2em;}
+
+#texto{ text-align: center;
+  margin-top: 50px;
+  font-size: 1.5em;
+   ;
+}
+
+.option{
+  text-align: center;
+  margin-top: 50px;
+  }
+
+button{
+   border:1 px solid #3d595e;
+   background:#CDC1C5;
+   padding: 10px 20px;
+   font-size: 20px;
+   font-family: "montserrat";
+
+}
+
+
+
+.restart{
+    margin-bottom: 20px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.restart a{
+    text-align: center;
+    margin-top: 20px;
+    color: black;
+    font-size:15px;
+    font-weight: bold;
+    width: 80%;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
